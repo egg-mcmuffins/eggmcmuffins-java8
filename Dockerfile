@@ -22,3 +22,6 @@ RUN sudo apt-get -y install sbt
 # awscli
 RUN apt-get install -y python-pip
 RUN pip install awscli
+
+# zip
+RUN apt-get install -y zip unzip
