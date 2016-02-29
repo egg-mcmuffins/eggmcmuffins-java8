@@ -1,0 +1,1 @@
+[![Docker Repository on Quay](https://quay.io/repository/autodeskcloud/eggmcmuffins-java8/status "Docker Repository on Quay")](https://quay.io/repository/autodeskcloud/eggmcmuffins-java8)
