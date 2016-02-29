@@ -25,3 +25,6 @@ RUN pip install awscli
 
 # zip
 RUN apt-get install -y zip unzip
+
+# curl
+RUN apt-get install -y curl
