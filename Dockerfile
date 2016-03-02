@@ -18,6 +18,7 @@ RUN apt-get install apt-transport-https
 RUN sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 642AC823
 RUN apt-get -y update
 RUN sudo apt-get -y install sbt
+RUN sbt update
 
 # awscli
 RUN apt-get install -y python-pip
