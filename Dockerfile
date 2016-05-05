@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:trusty
 MAINTAINER steven.phung@autodesk.com
 
 RUN apt-get -y update
